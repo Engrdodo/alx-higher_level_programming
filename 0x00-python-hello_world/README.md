@@ -6,3 +6,4 @@ Print the float in stored Variable
 Print string 
  first string concatenation
 Copy - cut -paste in Python
+ slicing to create a new sentence 
