@@ -5,3 +5,4 @@ Using f-strings formatted type
 Print the float in stored Variable
 Print string 
  first string concatenation
+Copy - cut -paste in Python
