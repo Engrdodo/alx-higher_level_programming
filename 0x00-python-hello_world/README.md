@@ -7,3 +7,4 @@ Print string
  first string concatenation
 Copy - cut -paste in Python
  slicing to create a new sentence 
+print long poem using import this
