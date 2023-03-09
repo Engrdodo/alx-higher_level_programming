@@ -2,3 +2,4 @@ A number that check wether a number is +ve, -ve or zero
 Check the last digit
 write alphabet in lower letter
 prints lowercase alphabets except q and e
+ print number and hexadeximal number
