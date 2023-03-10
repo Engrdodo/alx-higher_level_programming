@@ -3,3 +3,4 @@ Check the last digit
 write alphabet in lower letter
 prints lowercase alphabets except q and e
  print number and hexadeximal number
+print 0 to 99 in two digits
