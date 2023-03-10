@@ -10,3 +10,4 @@ prints string in uppercase
 Function that prints last digit
 function that add two numbers
 a function that computes a to the power of b and return the value.
+Fizz Buzz and FizzBuzz function
