@@ -5,3 +5,4 @@ prints lowercase alphabets except q and e
  print number and hexadeximal number
 print 0 to 99 in two digits
 Print number combo without repeat
+function to check lower case, returns True
