@@ -7,3 +7,4 @@ print 0 to 99 in two digits
 Print number combo without repeat
 function to check lower case, returns True
 prints string in uppercase
+Function that prints last digit
