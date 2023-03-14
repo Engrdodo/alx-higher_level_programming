@@ -4,3 +4,4 @@ Import a simple function from a simple file
 
 
 
+a program that prints the result of the addition of all arguments
